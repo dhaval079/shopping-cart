@@ -20,9 +20,9 @@ Make Sure to Create a config.env file in backend/config directory and add approp
 ![Ecommerce Video](Ecommerce-ezgif.com-video-to-gif-converter.gif)
 
 ![Image Description](ecm1.png)
-![Image Description](images/example.jpg)
-![Image Description](images/example.jpg)
-![Image Description](images/example.jpg)
+![Image Description](ecm2.png)
+![Image Description](ecm3.png)
+![Image Description](ecm4.png)
 
 **Essential Variables**
 PORT=""
