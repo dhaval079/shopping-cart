@@ -17,7 +17,7 @@ Hi! My name is **Dhaval**,
 Make Sure to Create a config.env file in backend/config directory and add appropriate variables in order to use the app.
 
 **Some Previews**
-[Video Thumbnail](Ecommerce-ezgif.com-video-to-gif-converter.gif)
+![Ecommerce Video](Ecommerce-ezgif.com-video-to-gif-converter.gif)
 
 ![Image Description](ecm1.png)
 ![Image Description](images/example.jpg)
